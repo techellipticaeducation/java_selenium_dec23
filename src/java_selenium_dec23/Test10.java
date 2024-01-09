@@ -1,6 +1,4 @@
 package java_selenium_dec23;
-
-
 // execute
 // if you want to execute your class, 
 // you must have main method
