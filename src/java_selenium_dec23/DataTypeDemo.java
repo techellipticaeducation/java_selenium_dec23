@@ -6,19 +6,13 @@ public static void main(String[] args) {
 	
 	short s1 = (short)32768;
 	System.out.println(s1);
-	
-	
+		
 //	for(int i = 0 ; i < 300 ; i++) {
 //		System.out.println(i + " = " + (byte)i);
 //	}
 	
-	
-	
-	
 //	System.out.println(b1);
-	
 
-	
 //	short s1 = 140; // 
 //	System.out.println(s1);
 	
