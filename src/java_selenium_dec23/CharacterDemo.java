@@ -1,7 +1,12 @@
 package java_selenium_dec23;
 
+
+
 public class CharacterDemo {
 public static void main(String[] args) {
+	
+
+	
 	// char - 2 type 
 	// ascii code - 1 byte
 	// keyboard
