@@ -16,7 +16,6 @@ public class MethodDemo {
 		double d1 = calc.piValue();
 		System.out.println(d1);
 	}
-
 }
 
 
