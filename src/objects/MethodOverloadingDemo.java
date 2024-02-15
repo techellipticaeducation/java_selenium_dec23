@@ -3,7 +3,6 @@ package objects;
 public class MethodOverloadingDemo {
 	public static void main(String[] args) {
 		//Calculator10.add
-		
 	}
 }
 // Method Overloading 
@@ -13,7 +12,6 @@ public class MethodOverloadingDemo {
 // Signature 
 class Calculator10{
 
-
 	static int add(int i , int j) {
 		return i + j;
 	}
@@ -22,8 +20,14 @@ class Calculator10{
 		return i + j+k;
 	}
 
+	static int add(int i , int j, int k, int m) {
+		return i + j+k+m;
+	}
+	
+	
+	
 	static int add(float i , int j) {
 		return (int)i + j;
 	}
-
+	
 }
