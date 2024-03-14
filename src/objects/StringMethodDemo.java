@@ -2,6 +2,9 @@ package objects;
 
 public class StringMethodDemo {
 	public static void main(String[] args) {
+		
+		System.out.println("");
+		
 		// string - array of character
 		String str1 = "This is java sessions";
 		
@@ -35,8 +38,6 @@ public class StringMethodDemo {
 		String val = "23";
 		int k = Integer.parseInt(val);
 		System.out.println(k+k);
-		
-		
 		
 		// datatype -> String (valueOF)
 		String j  = String.valueOf(i);
