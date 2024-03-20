@@ -15,7 +15,6 @@ public class SeleniumDemo {
 	public static void main(String[] args) {
 		
 		String driverPath = "C:\\Users\\Vaibhav\\git\\java_selenium_dec23\\drivers\\chromedriver.exe";
-		
 		System.setProperty("webdriver.chrome.driver", driverPath);
 		//System.setProperty("webdriver.gecko.driver", mozilladriverPath); // Firefox
 		//System.setProperty("webdriver.edge.driver", edgedriverPath); // Edge
