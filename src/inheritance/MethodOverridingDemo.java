@@ -5,10 +5,7 @@ public class MethodOverridingDemo {
 		M2 mObj  = new M2();
 		mObj.m1();
 		//mObj.
-		
 		// ByDefault every class has a parent class - Object
-		
-		
 	}
 }
 
